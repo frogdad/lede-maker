@@ -17,7 +17,7 @@ Build OpenWrt using GitHub Actions
 - Click the `Run workflow` button.
 - When the build is complete, click the `Artifacts` button in the upper right corner of the Actions page to download the binaries.
 
--SSH:
+- SSH:
 cd openwrt && make menuconfig
 touch /tmp/continue
 
